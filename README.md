@@ -1,5 +1,5 @@
 # Chilli Trading Management System
-🚀 **Live Demo:** [https://chilli-project.vercel.app]([https://chilli-project.vercel.app](https://vercel.com/harshitas-projects-2d442fde/chilli-project/FShxbtQ3eaNWBzomeJkuwsFn5on6?filter=errors))  
+🚀 **Live Demo:** [https://chilli-project.vercel.app](https://chilli-project-li4yc84uq-harshitas-projects-2d442fde.vercel.app)  
 A web application for managing chilli trading transactions and analytics.
 
 ## Features
